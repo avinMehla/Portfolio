@@ -1,0 +1,45 @@
+international_clock.png    144 line 
+157 line dictionARY IMAGE
+170 WEATHER
+183 EXPENSE
+196 deed expenses
+  <article class="projects__card">
+                    <img src="assets/images/weather.png" alt="projects image" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">Weather App</span>
+                        <h2 class="projects__ttile">A basic React App</h2>
+                        <a href="https://weather-app-lac-pi.vercel.app/" class="projects__button">
+                            Live View <i class="ri-external-link-line"></i>
+                           </a>
+                        <a href="https://github.com/Dhruvabhat24/weather-app" class="projects__button">
+                            Source Code <i class="ri-external-link-line"></i>
+                        </a>
+                    </div>
+                </article>
+                <article class="projects__card">
+                    <img src="assets/images/Weather1.png" alt="projects image" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">Weather Application </span>
+                            <h2 class="projects__ttile">Open Weather API used</h2>
+                            <a href="https://weather-application-sooty.vercel.app/" class="projects__button">
+                                Live View <i class="ri-external-link-line"></i>
+                               </a>
+                            <a href="https://github.com/Dhruvabhat24/Weather-Application" class="projects__button">
+                                Source Code <i class="ri-external-link-line"></i>
+                            </a>
+                       </a>
+                    </div>
+                </article>
+                <article class="projects__card">
+                    <img src="assets/images/img gly.jpg" alt="projects image" class="projects__img">
+                    <div class="projects__modal">
+                        <span class="projects__subtitle">Image Gallery with Filtering </span>
+                            <a href="" class="projects__button">
+                                On Goining<i class="ri-external-link-line"></i>
+                               </a>
+                            <!--<a href="https://github.com/Dhruvabhat24/Weather-Application" class="projects__button">
+                                Source Code <i class="ri-external-link-line"></i>
+                            </a>-->
+                       </a>
+                    </div>
+                </article>
